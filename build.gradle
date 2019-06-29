@@ -21,9 +21,9 @@ apply plugin: 'maven-publish'
 
 group = 'org.sonarsource.scanner.gradle'
 description = 'Gradle plugin to help analyzing projects with SonarQube'
-def projectName = 'SonarQube Scanner for Gradle'
-def docUrl = 'http://redirect.sonarsource.com/doc/gradle.html'
-def githubUrl = 'https://github.com/krishna2751992/sonar-scanner-gradle'
+// def projectName = 'SonarQube Scanner for Gradle'
+// def docUrl = 'http://redirect.sonarsource.com/doc/gradle.html'
+// def githubUrl = 'https://github.com/krishna2751992/sonar-scanner-gradle'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
