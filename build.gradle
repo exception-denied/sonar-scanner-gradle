@@ -36,10 +36,6 @@ javadoc {
   options.encoding = 'UTF-8'
 }
 
-test {
-	ignoreFailures = true
-}
-
 ext {
   buildNumber = System.getProperty("buildNumber")
 }
